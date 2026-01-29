@@ -6,7 +6,7 @@
 Photography portfolio featuring favorite Kenyan wildlife photos from Nairobi National Park, Amboseli, and Lake Naivasha.
 
 ## Live Site
-https://mercymnn6-arch.github.io/tdy
+https://github.com/mercymnn6-arch/MnN-s-Nature-Portfolio.git
 
 ## Technologies Used
 - HTML (`<header>`, `<section>`, `<div>`, `<img>`)  
